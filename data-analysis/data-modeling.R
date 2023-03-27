@@ -1,0 +1,13 @@
+pdf("testing123.pdf")
+x=seq(0,1,0.01)
+
+
+y = (-(2/3)*x + (1/6))
+#y = (-(2/3)*x + (1/6)) * ((1-x))^2
+
+plot(x,y, type='l', col="red", ylab="Contractile Force", xlab="Motor drop-off distance", main= "Predicted contractile Force")
+lim <- par("usr")
+rect(lim[1]-1, 0, lim[2]+1, lim[4]+1, border = adjustcolor("gainsboro", alpha.f = 0.20), col = adjustcolor("gainsboro", alpha.f = 0.20))
+rect(lim[1]-1, lim[3]-1, 0.25, lim[4]+1, border = adjustcolor("palegreen", alpha.f = 0.20), col = adjustcolor("palegreen", alpha.f = 0.20))
+ 
+dev.off() 
