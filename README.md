@@ -5,6 +5,6 @@ the interactions between the filaments that make up the bundle . However, within
 are highly packed and cannot be tracked using microscopy. Therefore we use modelling and simulation to gain
 insight.
 
-<img width="315" alt="1" src="https://github.com/TimRyall/stress-fibre-modeling/assets/78301985/4608cf13-8f49-4076-ba0a-5269e01800e1">
-<img width="472" alt="2" src="https://github.com/TimRyall/stress-fibre-modeling/assets/78301985/124a8175-9c64-4560-bf45-001ea6a3843b">
-<img width="449" alt="3" src="https://github.com/TimRyall/stress-fibre-modeling/assets/78301985/71fb68c7-f3cf-4258-903b-6ea94cd98a5e">
+<img width="723" alt="2" src="https://github.com/TimRyall/stress-fibre-modeling/assets/78301985/10206925-5e7f-4c74-a324-a829559e6d12">
+<img width="722" alt="3" src="https://github.com/TimRyall/stress-fibre-modeling/assets/78301985/00ba341c-9d94-44ab-ac69-3784203dd65d">
+<img width="720" alt="1" src="https://github.com/TimRyall/stress-fibre-modeling/assets/78301985/6283e3f5-d849-4cc4-aeb1-673ffc24429d">
